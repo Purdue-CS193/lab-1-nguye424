@@ -1,5 +1,10 @@
 ## Welcome to GitHub Pages
+# nguye424's first CS193 class
 
+Things I like the most about my CS193 class:
+- Awesome TAs;
+- Cool AC;
+- Large space;
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -11,17 +16,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# nguye424's first CS193 class
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-Things I like the most about my CS193 class:
-- Awesome TAs;
-- Cool AC;
-- Large space;
 
 **Bold** and _Italic_ and `Code` text
 
